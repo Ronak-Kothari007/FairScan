@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "fYwlTkkXZ7GKgvz1KETRC"
+uri = "file://exports/fairscan_project_overview.pdf"
+type = "pdf"
+title = "FairScan — Project Overview"
